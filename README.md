@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Jasmine! 👋
 
-You can find me on Instagram, where I share my coding journey and snippets of my life:
+You can find me on Instagram, where I share my life:
 
 [![Instagram](https://img.shields.io/badge/Instagram-jasmine__cym-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jasmine_cym)
 
